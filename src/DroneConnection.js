@@ -69,7 +69,7 @@ class DroneConnection extends EventEmitter {
 
     this.droneFilter = droneFilter;
 
-    this.noble = require('noble');
+    this.noble = require('noble-mac');
     this.parser = new CommandParser();
 
     if (warmup) {

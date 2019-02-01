@@ -10,7 +10,7 @@
     "arsdk-xml": "1.0.0",
     "case": "^1.5.4",
     "events": "^3.0.0",
-    "noble": "git://github.com/jacobrosenthal/noble.git#highsierra",
+    "noble-mac": "git@github.com:Timeular/noble-mac.git",
     "node-gyp": "^3.6.2",
     "resolve": "^1.6.0",
     "winston": "^3.0.0",

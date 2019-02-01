@@ -7,7 +7,7 @@
     "case": "^1.5.4",
     "dualshock-controller": "^1.1.1",
     "events": "^1.1.1",
-    "noble": "git://github.com/jacobrosenthal/noble.git#highsierra",
+    "noble-mac": "git@github.com:Timeular/noble-mac.git",
     "node-gyp": "^3.6.2",
     "winston": "^2.4.0",
     "xml2js": "^0.4.19"
